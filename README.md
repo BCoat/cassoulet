@@ -1,2 +1,2 @@
 # cassoulet
-Manger du cassoulet
+Manger du cassoulet avec des saucisses.
